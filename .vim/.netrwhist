@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/michaelmain/code/infrastructure/modules/site-drupal'
+let g:netrw_dirhist_8='/Users/michaelmain/code/infrastructure/modules'
+let g:netrw_dirhist_7='/Users/michaelmain/code/infrastructure'
+let g:netrw_dirhist_6='/Users/michaelmain/code/infrastructure/aws'
+let g:netrw_dirhist_5='/Users/michaelmain/code/infrastructure/aws/prod'
+let g:netrw_dirhist_4='/Users/michaelmain/code/data/churnzero_lambda'
+let g:netrw_dirhist_3='/Users/michaelmain/code/site-drupal/.circleci'
+let g:netrw_dirhist_2='/Users/michaelmain/code/site-drupal'
+let g:netrw_dirhist_1='/Users/michaelmain/code/site-drupal/.circleci'
+let g:netrw_dirhist_0='/Users/michaelmain/code/site-drupal'
